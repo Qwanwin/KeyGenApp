@@ -1,3 +1,4 @@
-{
-    "blocked_devices": []
-}
+[
+    "blocked_device_id_1",
+    "blocked_device_id_2"
+]
